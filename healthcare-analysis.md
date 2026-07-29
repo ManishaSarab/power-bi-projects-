@@ -8,7 +8,7 @@ A Power BI reporting tool built to benchmark hospital performance against nation
 - Hospital overall ratings varied significantly by ownership type, with rating "3" most common
 - Safety-of-care scores dropped sharply after Acute Care and Critical Access hospital types
 - Facility and ownership counts showed a notable jump between 2018 and 2020, then plateaued
-
+![Healthcare Analysis](healthcare-analysis.jpg)
 ## Tools Used
 - Power BI Desktop
 - DAX (national comparison flags, aggregations)
