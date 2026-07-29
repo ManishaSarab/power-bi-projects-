@@ -15,4 +15,4 @@ An interactive Power BI dashboard analyzing retail sales performance across prod
 - Power Query (data cleaning/transformation)
 
 ## Dataset
-Retail sales/customer transaction dataset (categories, purchase frequency, shipping type, discounts, ratings).
+Raw data: [retail-sales-data.xlsx](sheet1.xlsx)
